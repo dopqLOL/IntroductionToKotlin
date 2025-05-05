@@ -125,5 +125,3 @@ class MainActivity : ComponentActivity() {
 * `@Preview` アノテーションでUIのプレビューを確認しました。
 * `MainActivity` の `setContent` でアプリのメインUIを設定しました。
 * `Surface` と `Modifier` を使った基本的なレイアウト調整に触れました。
-
-```text
