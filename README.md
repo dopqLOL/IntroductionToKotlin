@@ -10,6 +10,10 @@
 
 学習記録は `docs` ディレクトリにMarkdown形式で保存されています。
 
+## 学習記録ファイル一覧
+
+- [Java と Kotlin の主な違い: 変数、関数、クラス (docs/JAVAvsKOTLIN.md)](docs/JAVAvsKOTLIN.md) (作成日: 2025/05/05)
+
 ## 参照情報
 
 学習にあたり、以下のリソースを参照しています。
