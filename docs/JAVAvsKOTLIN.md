@@ -278,4 +278,3 @@ class App {
     }
     ```
 
-```text
