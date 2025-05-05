@@ -13,6 +13,7 @@
 ## 学習記録ファイル一覧
 
 - [Java と Kotlin の主な違い: 変数、関数、クラス (docs/JAVAvsKOTLIN.md)](docs/JAVAvsKOTLIN.md) (作成日: 2025/05/05)
+- [JetPack Compose 初めてのアプリ作成 (docs/JetPack Compose 初めてのアプリ作成.md)](<docs/JetPack Compose 初めてのアプリ作成.md>) (作成日: 2025/05/05)
 
 ## 参照情報
 
