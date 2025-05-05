@@ -1,2 +1,17 @@
-# Kotlin-変数、関数　javaとの違い
-https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1?hl=ja
+# Kotlin 学習記録
+
+このプロジェクトは、Kotlinの学習で得た知識や情報を記録するためのものです。
+
+## 内容
+
+- Kotlinの基本的な概念（変数、関数など）
+- Javaとの違い
+- その他、学習中に重要だと感じたこと
+
+学習記録は `docs` ディレクトリにMarkdown形式で保存されています。
+
+## 参照情報
+
+学習にあたり、以下のリソースを参照しています。
+
+- [Android Basics with Compose - Unit 1 - Pathway 1](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1?hl=ja)
