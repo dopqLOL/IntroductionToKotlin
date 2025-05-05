@@ -1,3 +1,5 @@
+### Java と Kotlin の主な違い: 変数、関数、クラス
+
 ## 1. 変数宣言
 
 ### Kotlin
@@ -221,7 +223,7 @@ class App {
     val number = 10
     println("$number は偶数か？ ${number.isEven()}") // 出力: 10 は偶数か？ true
     ```
-    *(Javaには直接の代替機能なし。通常はstaticメソッドを持つユーティリティクラスを作成)*
+  *(Javaには直接の代替機能なし。通常はstaticメソッドを持つユーティリティクラスを作成)*
 
 * **スマートキャスト:** Kotlinでは `is` で型チェックした後、そのスコープ内では自動的にキャストされた型として扱える。Javaでは明示的なキャストが必要。
     ```kotlin
@@ -259,7 +261,7 @@ class App {
     }
     println("コード404の意味: ${getResponseType(404)}") // 出力: コード404の意味: Not Found
     ```
-    *(Javaのswitch文は、最近のバージョンで機能強化されたが、Kotlinのwhenほど柔軟ではない)*
+  *(Javaのswitch文は、最近のバージョンで機能強化されたが、Kotlinのwhenほど柔軟ではない)*
 
 * **main関数:** Kotlinの `main` 関数はトップレベル（クラス外）に定義可能で、引数なしでもよい。Javaはクラス内の `public static void main(String[] args)` が必須。
     ```kotlin
